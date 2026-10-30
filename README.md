@@ -1,6 +1,6 @@
 # Event-triggered automation tasks
 
-Design note for event-triggered automation tasks in DeepSeek Harness: source providers, event triggers, and a read-only judgment turn in a Session.
+Design note for event-triggered automation tasks: source providers, event triggers, and a read-only judgment turn in a session.
 
 - [English](2026-10-29-event-triggered-automation-tasks.md)
 - [中文](2026-10-29-event-triggered-automation-tasks.zh.md)
